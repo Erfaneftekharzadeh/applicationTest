@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">applicationTest</string>
+    <string name="copy">Hello</string>
 </resources>
