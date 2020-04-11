@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">applicationTest</string>
     <string name="copy">Hello</string>
+    <string name="mainbutton">Enter</string>
+
+    <string name="hintOfText">what is your name?</string>
 </resources>
