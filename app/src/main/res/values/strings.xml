@@ -4,4 +4,8 @@
     <string name="mainbutton">Enter</string>
 
     <string name="hintOfText">what is your name?</string>
+    <string name="password">password</string>
+    <string name="username">Your name</string>
+    <string name="login">Login</string>
+    <string name="loginButton">LoginButton</string>
 </resources>
